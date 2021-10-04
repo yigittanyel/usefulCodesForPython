@@ -35,3 +35,5 @@ def my_func(*kids):
 
 my_func("Yigit","Semih","Yusuf")
 """
+def hello(name):
+    print("Hello " + name)
